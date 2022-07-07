@@ -1,0 +1,34 @@
+# first time downloading repository to local
+git clone (the github link)
+
+# if the repository already exists locally
+git pull origin main
+
+
+cd (the repository name) 
+
+
+ls
+
+git status
+
+# revise files
+
+
+
+# stage revisions for commit
+
+git add -A
+
+
+
+# commit anything that changed
+
+git commit -m "made some changes"
+
+
+
+
+# push updates back to github
+
+git push origin main 
